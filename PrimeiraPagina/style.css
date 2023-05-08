@@ -1,0 +1,13 @@
+h1{
+    background-color: blueviolet;   
+    color: whitesmoke;
+    width: 175px;
+    border-radius: 250px;
+}
+
+h2{
+  background-color: rgb(89, 105, 134);  
+  color: darkorange;
+  width: 125px;
+  border-radius: 250px;
+}
