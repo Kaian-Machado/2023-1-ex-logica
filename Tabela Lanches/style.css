@@ -1,0 +1,19 @@
+/* *{  
+    border: 1px solid purple;   
+}
+*/
+table{
+    color: rgba(0, 0, 0, 0.957);
+}
+
+th{
+    background-color: rgb(214, 171, 255);
+}
+
+td{
+    background-color: violet;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
